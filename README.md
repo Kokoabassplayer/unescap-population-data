@@ -6,7 +6,7 @@ This repository is maintained by Nuttapong Buttprom. It is not an official UN ES
 
 ## 2026 data
 
-[Download the complete raw CSV](https://github.com/Kokoabassplayer/unescap-population-data/releases/download/2026-v1/Population%20datasheet%202026_for%20Tableau_revised_2026-08-24.csv)
+[Download the complete raw CSV](https://github.com/Kokoabassplayer/unescap-population-data/releases/download/2026-v1/Population.datasheet.2026_for.Tableau_revised_2026-08-24.csv)
 
 [Release details and checksum](https://github.com/Kokoabassplayer/unescap-population-data/releases/tag/2026-v1)
 
@@ -15,6 +15,7 @@ This repository is maintained by Nuttapong Buttprom. It is not an official UN ES
 - All supplied years and indicators are included, independently of dashboard filters.
 - The CSV preserves the supplied file bytes, values, units, definitions, formatting, and 387 blank Value cells. Blank is not zero.
 - UTF-8 with a byte-order mark and original line endings. Spreadsheet applications can import this CSV.
+- GitHub replaces spaces in the download filename with dots. The file contents are unchanged.
 - Migration-count units in this revision are `number of persons`.
 - Only the revised CSV was supplied for this correction. An older Excel file is not distributed as an equivalent version, and no converted Excel file is presented as a UN original.
 
